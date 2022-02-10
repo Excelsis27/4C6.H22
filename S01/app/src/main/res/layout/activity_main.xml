@@ -14,10 +14,37 @@
         android:text="@string/msgBonjour"
         />
 
+    <EditText
+        android:id="@+id/edtName"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:inputType="text"
+    />
+
     <Button
         android:id="@+id/btnMessage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/msgMessage"
         />
+
+    <Button
+        android:id="@+id/btnAppel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnAppel"
+        />
+
+    <Button
+        android:id="@+id/btnSms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSms"
+        />
+    <Button
+        android:id="@+id/secondActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnJeu"
+         />
 </LinearLayout>

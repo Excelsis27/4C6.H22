@@ -2,4 +2,11 @@
     <string name="app_name">S01 Premiere Application</string>
     <string name="msgBonjour">Bonjour ma première application Android</string>
     <string name="msgMessage">Message</string>
+    <string name="btnAppel">Appel</string>
+    <string name="btnSms">SMS</string>
+    <string name="btnJeu">Jeu</string>
+    <string name="msgDeviner">Bonjour %s, devinez le nombre</string>
+    <string name="msgWinner">Bravo</string>
+    <string name="msgHigh">Le nombre recherché est plus grand</string>
+    <string name="msgLow">Le nombre recherché est plus petit</string>
 </resources>

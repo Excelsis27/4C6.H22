@@ -13,4 +13,7 @@
     <string name="level">Level %d</string>
     <string name="low_energy">Low Energy</string>
     <string name="recharge">Recharge</string>
+    <string name="lowResource">Low resource</string>
+    <string name="low_resources">Low Enery or Life</string>
+    <string name="msgContinue">Continue</string>
 </resources>
